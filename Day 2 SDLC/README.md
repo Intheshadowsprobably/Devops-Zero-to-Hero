@@ -4,13 +4,13 @@ Welcome to Day 2. Today we focus on the industry standard process used to design
 
 ## 📅 Day 2 Curriculum
 
-1. **[SDLC Overview](./sdlc-overview.md)**  
+1. **[SDLC Overview](./01-sdlc-overview.md)**  
    *What is SDLC? The 6 phases of the lifecycle and why standards matter.*
 
-2. **[DevOps in SDLC](./devops-in-sdlc.md)**  
+2. **[DevOps in SDLC](./02-devops-in-sdlc.md)**  
    *Where does DevOps fit? Identifying the "DevOps-Centric" phases and how automation improves efficiency.*
 
-3. **[Interview Prep: SDLC Questions](./interview-prep-sdlc.md)**  
+3. **[Interview Prep: SDLC Questions](./03-interview-prep-sdlc.md)**  
    *How to answer "What is SDLC?" and "Which phases do you focus on?" in interviews.*
 
 ---
